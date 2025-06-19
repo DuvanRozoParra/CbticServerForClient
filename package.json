@@ -13,9 +13,14 @@
   },
   "samples": [
     {
-      "displayName": "Defualt",
+      "displayName": "Prefabs",
       "description": "Contains sample code for Socket Unity Client",
-      "path": "Samples~/default"
+      "path": "Samples~/Prefabs"
+    },
+    {
+      "displayName": "ServerCbtic",
+      "description": "Contains sample code for Socket Unity Client",
+      "path": "Samples~/ServerCbtic"
     }
   ]
 }
