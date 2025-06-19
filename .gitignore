@@ -1,5 +1,2 @@
 # Ignorar .meta en general
 *.meta
-
-# PERO incluir los de Samples~ (anulamos la regla anterior)
-# !Samples~/**/*.meta
