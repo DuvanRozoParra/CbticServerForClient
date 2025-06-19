@@ -7,5 +7,8 @@
   "author": {
     "name": "DuvanRozoParra",
     "email": "dduvanrozo@gmail.com"
+  },
+  "dependencies": {
+    "com.endel.nativewebsocket": "1.1.5"
   }
 }
