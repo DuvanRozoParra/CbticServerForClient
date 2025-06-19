@@ -1,7 +1,9 @@
 {
   "name": "VRLabDemo",
   "references": [
-    "CbticVRServer"
+    "CbticVRServer",
+    "Unity.TextMeshPro",
+    "Unity.InputSystem"
   ],
   "includePlatforms": [],
   "excludePlatforms": [],

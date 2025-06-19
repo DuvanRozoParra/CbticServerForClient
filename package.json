@@ -9,6 +9,8 @@
     "email": "dduvanrozo@gmail.com"
   },
   "dependencies": {
+    "com.unity.inputsystem": "1.5.1",
+    "com.unity.textmeshpro": "3.0.6",
     "com.endel.nativewebsocket": "1.1.5"
   },
   "samples": [
