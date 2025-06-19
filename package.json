@@ -10,5 +10,12 @@
   },
   "dependencies": {
     "com.endel.nativewebsocket": "1.1.5"
-  }
+  },
+  "samples": [
+    {
+      "displayName": "Defualt",
+      "description": "Contains sample code for Socket Unity Client",
+      "path": "Samples~/Default"
+    }
+  ]
 }
