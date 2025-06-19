@@ -1,8 +1,8 @@
 {
-  "name": "com.cbtic.serverclientcbtic",
   "version": "7.1.1",
-  "displayName": "Conector Servidor Go",
-  "description": "Conecta un cliente Unity con un servidor en Go.",
+  "name": "com.cbtic.vrserver",
+  "displayName": "CBTIC VR Server Platform",
+  "description": "Servidor ligero de realidad virtual desarrollado por CBTIC, diseñado para reemplazar completamente la plataforma VIROO. Permite la conexión de gafas Meta Quest directamente a un servidor local, eliminando la necesidad de PCs por estación. Implementado en Unity y Go, facilita la sincronización multiusuario, control de colisiones, gestión de avatares y escenarios educativos, todo desde un solo portátil.",
   "unity": "2023.3",
   "author": {
     "name": "DuvanRozoParra",
@@ -13,14 +13,9 @@
   },
   "samples": [
     {
-      "displayName": "Prefabs",
-      "description": "Contains sample code for Socket Unity Client",
+      "displayName": "VR Lab Demo",
+      "description": "Escenario de muestra para pruebas en sala de realidad virtual UNIMETA. Incluye avatares, sincronización multiusuario y límites espaciales configurables mediante prefabs.",
       "path": "Samples~/Prefabs"
-    },
-    {
-      "displayName": "ServerCbtic",
-      "description": "Contains sample code for Socket Unity Client",
-      "path": "Samples~/ServerCbtic"
     }
   ]
 }
