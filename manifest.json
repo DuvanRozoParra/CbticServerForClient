@@ -1,7 +1,0 @@
-{
-  "dependencies": {
-    "com.unity.xr.interaction.toolkit": "3.0.8",
-    "com.unity.xr.management": "4.5.1",
-    "com.endel.nativewebsocket": "https://github.com/endel/NativeWebSocket.git#upm"
-  }
-}
