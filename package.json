@@ -3,7 +3,7 @@
   "version": "7.1.1",
   "displayName": "Conector Servidor Go",
   "description": "Conecta un cliente Unity con un servidor en Go.",
-  "unity": "2021.3",
+  "unity": "2023.3",
   "author": {
     "name": "DuvanRozoParra",
     "email": "dduvanrozo@gmail.com"
