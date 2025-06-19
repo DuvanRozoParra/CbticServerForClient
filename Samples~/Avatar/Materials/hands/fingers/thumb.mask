@@ -1,0 +1,139 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: thumb
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: asd.l.001
+    m_Weight: 0
+  - m_Path: asd.l.001/asd.l.002
+    m_Weight: 0
+  - m_Path: asd.l.001/asd.l.002/asd.l.022
+    m_Weight: 0
+  - m_Path: asd.l.001/asd.l.002/asd.l.022/asd.l.014
+    m_Weight: 0
+  - m_Path: asd.l.001/asd.l.002/asd.l.022/asd.l.014/asd.l.003
+    m_Weight: 0
+  - m_Path: asd.l.001/asd.l.002/asd.l.022/asd.l.014/asd.l.003/asd.l.015
+    m_Weight: 0
+  - m_Path: asd.l.001/asd.l.002/asd.l.022/asd.l.014/asd.l.003/asd.l.015/asd.l.004
+    m_Weight: 0
+  - m_Path: asd.l.001/asd.l.002/asd.l.022/asd.l.014/asd.l.003/asd.l.015/asd.l.004/asd.l.004_end
+    m_Weight: 0
+  - m_Path: asd.l.001/asd.l.002/asd.l.022/asd.l.014/asd.l.003/asd.l.015/asd.l.004/Cube.065
+    m_Weight: 0
+  - m_Path: asd.l.001/asd.l.002/asd.l.022/asd.l.014/asd.l.003/asd.l.015/Cube.087
+    m_Weight: 0
+  - m_Path: asd.l.001/asd.l.002/asd.l.022/asd.l.014/asd.l.003/Cube.074
+    m_Weight: 0
+  - m_Path: asd.l.001/asd.l.002/asd.l.022/asd.l.014/Cube.086
+    m_Weight: 0
+  - m_Path: asd.l.001/asd.l.002/asd.l.022/Cube.067
+    m_Weight: 0
+  - m_Path: asd.l.001/asd.l.002/Cube.085
+    m_Weight: 0
+  - m_Path: asd.l.001/asd.l.005
+    m_Weight: 0
+  - m_Path: asd.l.001/asd.l.005/asd.l.023
+    m_Weight: 0
+  - m_Path: asd.l.001/asd.l.005/asd.l.023/asd.l.016
+    m_Weight: 0
+  - m_Path: asd.l.001/asd.l.005/asd.l.023/asd.l.016/asd.l.006
+    m_Weight: 0
+  - m_Path: asd.l.001/asd.l.005/asd.l.023/asd.l.016/asd.l.006/asd.l.017
+    m_Weight: 0
+  - m_Path: asd.l.001/asd.l.005/asd.l.023/asd.l.016/asd.l.006/asd.l.017/asd.l.007
+    m_Weight: 0
+  - m_Path: asd.l.001/asd.l.005/asd.l.023/asd.l.016/asd.l.006/asd.l.017/asd.l.007/asd.l.007_end
+    m_Weight: 0
+  - m_Path: asd.l.001/asd.l.005/asd.l.023/asd.l.016/asd.l.006/asd.l.017/asd.l.007/Cube.071
+    m_Weight: 0
+  - m_Path: asd.l.001/asd.l.005/asd.l.023/asd.l.016/asd.l.006/asd.l.017/Cube.088
+    m_Weight: 0
+  - m_Path: asd.l.001/asd.l.005/asd.l.023/asd.l.016/asd.l.006/Cube.075
+    m_Weight: 0
+  - m_Path: asd.l.001/asd.l.005/asd.l.023/Cube.068
+    m_Weight: 0
+  - m_Path: asd.l.001/asd.l.005/asd.l.023/Cube.084
+    m_Weight: 0
+  - m_Path: asd.l.001/asd.l.005/Cube.080
+    m_Weight: 0
+  - m_Path: asd.l.001/asd.l.008
+    m_Weight: 0
+  - m_Path: asd.l.001/asd.l.008/asd.l.024
+    m_Weight: 0
+  - m_Path: asd.l.001/asd.l.008/asd.l.024/asd.l.018
+    m_Weight: 0
+  - m_Path: asd.l.001/asd.l.008/asd.l.024/asd.l.018/asd.l.009
+    m_Weight: 0
+  - m_Path: asd.l.001/asd.l.008/asd.l.024/asd.l.018/asd.l.009/asd.l.019
+    m_Weight: 0
+  - m_Path: asd.l.001/asd.l.008/asd.l.024/asd.l.018/asd.l.009/asd.l.019/asd.l.010
+    m_Weight: 0
+  - m_Path: asd.l.001/asd.l.008/asd.l.024/asd.l.018/asd.l.009/asd.l.019/asd.l.010/asd.l.010_end
+    m_Weight: 0
+  - m_Path: asd.l.001/asd.l.008/asd.l.024/asd.l.018/asd.l.009/asd.l.019/asd.l.010/Cube.070
+    m_Weight: 0
+  - m_Path: asd.l.001/asd.l.008/asd.l.024/asd.l.018/asd.l.009/asd.l.019/Cube.089
+    m_Weight: 0
+  - m_Path: asd.l.001/asd.l.008/asd.l.024/asd.l.018/asd.l.009/Cube.076
+    m_Weight: 0
+  - m_Path: asd.l.001/asd.l.008/asd.l.024/asd.l.018/Cube.083
+    m_Weight: 0
+  - m_Path: asd.l.001/asd.l.008/asd.l.024/Cube.078
+    m_Weight: 0
+  - m_Path: asd.l.001/asd.l.008/Cube.079
+    m_Weight: 0
+  - m_Path: asd.l.001/asd.l.011
+    m_Weight: 0
+  - m_Path: asd.l.001/asd.l.011/asd.l.025
+    m_Weight: 0
+  - m_Path: asd.l.001/asd.l.011/asd.l.025/asd.l.020
+    m_Weight: 0
+  - m_Path: asd.l.001/asd.l.011/asd.l.025/asd.l.020/asd.l.012
+    m_Weight: 0
+  - m_Path: asd.l.001/asd.l.011/asd.l.025/asd.l.020/asd.l.012/asd.l.021
+    m_Weight: 0
+  - m_Path: asd.l.001/asd.l.011/asd.l.025/asd.l.020/asd.l.012/asd.l.021/asd.l.013
+    m_Weight: 0
+  - m_Path: asd.l.001/asd.l.011/asd.l.025/asd.l.020/asd.l.012/asd.l.021/asd.l.013/asd.l.013_end
+    m_Weight: 0
+  - m_Path: asd.l.001/asd.l.011/asd.l.025/asd.l.020/asd.l.012/asd.l.021/asd.l.013/Cube.072
+    m_Weight: 0
+  - m_Path: asd.l.001/asd.l.011/asd.l.025/asd.l.020/asd.l.012/asd.l.021/Cube.090
+    m_Weight: 0
+  - m_Path: asd.l.001/asd.l.011/asd.l.025/asd.l.020/asd.l.012/Cube.077
+    m_Weight: 0
+  - m_Path: asd.l.001/asd.l.011/asd.l.025/asd.l.020/Cube.082
+    m_Weight: 0
+  - m_Path: asd.l.001/asd.l.011/asd.l.025/Cube.069
+    m_Weight: 0
+  - m_Path: asd.l.001/asd.l.011/Cube.081
+    m_Weight: 0
+  - m_Path: asd.l.001/asd.l.026
+    m_Weight: 1
+  - m_Path: asd.l.001/asd.l.026/asd.l.029
+    m_Weight: 1
+  - m_Path: asd.l.001/asd.l.026/asd.l.029/asd.l.028
+    m_Weight: 1
+  - m_Path: asd.l.001/asd.l.026/asd.l.029/asd.l.028/asd.l.027
+    m_Weight: 1
+  - m_Path: asd.l.001/asd.l.026/asd.l.029/asd.l.028/asd.l.027/asd.l.027_end
+    m_Weight: 1
+  - m_Path: asd.l.001/asd.l.026/asd.l.029/asd.l.028/asd.l.027/Cube.073
+    m_Weight: 1
+  - m_Path: asd.l.001/asd.l.026/asd.l.029/asd.l.028/Cube.092
+    m_Weight: 1
+  - m_Path: asd.l.001/asd.l.026/asd.l.029/Cube.066
+    m_Weight: 1
+  - m_Path: asd.l.001/asd.l.026/Cube.091
+    m_Weight: 1
+  - m_Path: asd.l.001/Cube.010
+    m_Weight: 0

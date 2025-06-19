@@ -1,0 +1,11 @@
+{
+  "name": "com.cbtic.serverclientcbtic",
+  "version": "7.1.1",
+  "displayName": "Conector Servidor Go",
+  "description": "Conecta un cliente Unity con un servidor en Go.",
+  "unity": "6000.0.33f1",
+  "author": {
+    "name": "DuvanRozoParra",
+    "email": "dduvanrozo@gmail.com"
+  }
+}
